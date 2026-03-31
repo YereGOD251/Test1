@@ -6,3 +6,4 @@ Mi repositorio web
 # Estos propiertarios sera los duenos por defecto en
 # el repo
 * @global-owner1 @gloabal-owner2
+#GG
